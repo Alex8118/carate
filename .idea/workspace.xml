@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="954b3b8a-6b0c-40be-8cd6-4a4a4dd7ff90" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/blog.html" beforeDir="false" afterPath="$PROJECT_DIR$/blog.html" afterDir="false" />
-    </list>
+    <list default="true" id="954b3b8a-6b0c-40be-8cd6-4a4a4dd7ff90" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -69,7 +67,14 @@
       <option name="project" value="LOCAL" />
       <updated>1581764850078</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="schedule of lessin">
+      <created>1581766221269</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1581766221269</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -77,16 +82,17 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="rename menu" />
-    <option name="LAST_COMMIT_MESSAGE" value="rename menu" />
+    <MESSAGE value="schedule of lessin" />
+    <option name="LAST_COMMIT_MESSAGE" value="schedule of lessin" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="398" y="59" width="860" height="807" key="CommitChangelistDialog2" timestamp="1581764849938">
+    <state x="398" y="59" width="860" height="807" key="CommitChangelistDialog2" timestamp="1581766221178">
       <screen x="67" y="27" width="1533" height="873" />
     </state>
-    <state x="398" y="59" width="860" height="807" key="CommitChangelistDialog2/67.27.1533.873@67.27.1533.873" timestamp="1581764849938" />
-    <state x="428" y="186" width="800" height="552" key="Vcs.Push.Dialog.v2" timestamp="1581764857450">
+    <state x="398" y="59" width="860" height="807" key="CommitChangelistDialog2/67.27.1533.873@67.27.1533.873" timestamp="1581766221178" />
+    <state x="428" y="186" width="800" height="552" key="Vcs.Push.Dialog.v2" timestamp="1581766227911">
       <screen x="67" y="27" width="1533" height="873" />
     </state>
-    <state x="428" y="186" width="800" height="552" key="Vcs.Push.Dialog.v2/67.27.1533.873@67.27.1533.873" timestamp="1581764857450" />
+    <state x="428" y="186" width="800" height="552" key="Vcs.Push.Dialog.v2/67.27.1533.873@67.27.1533.873" timestamp="1581766227911" />
   </component>
 </project>
