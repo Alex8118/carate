@@ -2,16 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="954b3b8a-6b0c-40be-8cd6-4a4a4dd7ff90" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/about.html" beforeDir="false" afterPath="$PROJECT_DIR$/about.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/blog-single-post.html" beforeDir="false" afterPath="$PROJECT_DIR$/blog-single-post.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/blog.html" beforeDir="false" afterPath="$PROJECT_DIR$/blog.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/contact.html" beforeDir="false" afterPath="$PROJECT_DIR$/contact.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/gallery-single-post.html" beforeDir="false" afterPath="$PROJECT_DIR$/gallery-single-post.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/gallery.html" beforeDir="false" afterPath="$PROJECT_DIR$/gallery.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
-    </list>
-    <list default="true" id="954b3b8a-6b0c-40be-8cd6-4a4a4dd7ff90" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -71,7 +62,14 @@
       <option name="project" value="LOCAL" />
       <updated>1581764176200</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="rename menu">
+      <created>1581764850078</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1581764850078</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -82,13 +80,13 @@
     <option name="LAST_COMMIT_MESSAGE" value="rename menu" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="398" y="59" width="860" height="807" key="CommitChangelistDialog2" timestamp="1581764461329">
+    <state x="398" y="59" width="860" height="807" key="CommitChangelistDialog2" timestamp="1581764849938">
       <screen x="67" y="27" width="1533" height="873" />
     </state>
-    <state x="398" y="59" width="860" height="807" key="CommitChangelistDialog2/67.27.1533.873@67.27.1533.873" timestamp="1581764461329" />
-    <state x="428" y="186" width="800" height="552" key="Vcs.Push.Dialog.v2" timestamp="1581764184246">
+    <state x="398" y="59" width="860" height="807" key="CommitChangelistDialog2/67.27.1533.873@67.27.1533.873" timestamp="1581764849938" />
+    <state x="428" y="186" width="800" height="552" key="Vcs.Push.Dialog.v2" timestamp="1581764857450">
       <screen x="67" y="27" width="1533" height="873" />
     </state>
-    <state x="428" y="186" width="800" height="552" key="Vcs.Push.Dialog.v2/67.27.1533.873@67.27.1533.873" timestamp="1581764184246" />
+    <state x="428" y="186" width="800" height="552" key="Vcs.Push.Dialog.v2/67.27.1533.873@67.27.1533.873" timestamp="1581764857450" />
   </component>
 </project>
