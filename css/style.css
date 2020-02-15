@@ -3,17 +3,17 @@
 	font-family: 'poller_oneregular';
 	src: url('../fonts/pollerone/pollerone-webfont.eot');
 	src: url('../fonts/pollerone/pollerone-webfont.eot?#iefix') format('embedded-opentype'),
-		 url('../fonts/pollerone/pollerone-webfont.woff') format('woff'),
-		 url('../fonts/pollerone/pollerone-webfont.ttf') format('truetype'),
-		 url('../fonts/pollerone/pollerone-webfont.svg#poller_oneregular') format('svg');
+	url('../fonts/pollerone/pollerone-webfont.woff') format('woff'),
+	url('../fonts/pollerone/pollerone-webfont.ttf') format('truetype'),
+	url('../fonts/pollerone/pollerone-webfont.svg#poller_oneregular') format('svg');
 }
 @font-face {
 	font-family: 'leckerli_oneregular';
 	src: url('../fonts/leckerlione/leckerlione-regular-webfont.eot');
 	src: url('../fonts/leckerlione/leckerlione-regular-webfont.eot?#iefix') format('embedded-opentype'),
-		 url('../fonts/leckerlione/leckerlione-regular-webfont.woff') format('woff'),
-		 url('../fonts/leckerlione/leckerlione-regular-webfont.ttf') format('truetype'),
-		 url('../fonts/leckerlione/leckerlione-regular-webfont.svg#leckerli_oneregular') format('svg');
+	url('../fonts/leckerlione/leckerlione-regular-webfont.woff') format('woff'),
+	url('../fonts/leckerlione/leckerlione-regular-webfont.ttf') format('truetype'),
+	url('../fonts/leckerlione/leckerlione-regular-webfont.svg#leckerli_oneregular') format('svg');
 }
 
 body {
@@ -79,7 +79,7 @@ p a:hover {
 	text-transform: uppercase;
 }
 #header ul li a:hover, #header ul li.selected a {
-	color: #0ba39c;
+	color: #252525;
 }
 #body {
 	margin: 0;
@@ -141,11 +141,11 @@ p a:hover {
 #body > div .article p {
 	margin: 0 0 30px;
 }
-#body div ul {
-	margin: 0;
-	padding: 24px 10px 0;
-	width: 940px;
-}
+/*#body div ul {*/                   /*!!!!!!!!!!!!!!*/
+/*	margin: 0;*/					/*!!!!!!!!!!!!!!*/
+/*	padding: 24px 10px 0;*/				/*!!!!!!!!!!!!!!*/
+/*	width: 940px;*/					/*!!!!!!!!!!!!!!*/
+/*}*/
 #body div ul li {
 	border: 2px solid #1a1a1a;
 	display: block;
@@ -348,13 +348,14 @@ p a:hover {
 }
 #footer div {
 	margin: 0 auto;
-	overflow: hidden;
+	/*overflow: hidden;*/ /*!!!!!!!!!!!!!!*/
 	padding: 0;
 	width: 960px;
 }
 #footer div p {
 	color: #fff;
-	float: left;
+	text-align: center;
+	/*float: left;*/      /*!!!!!!!!!!!!!!*/
 	line-height: 44px;
 	margin: 0 0 0 10px;
 	padding: 0;
