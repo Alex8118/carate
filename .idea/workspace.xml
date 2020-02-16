@@ -2,8 +2,18 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="954b3b8a-6b0c-40be-8cd6-4a4a4dd7ff90" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/trainers.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_config.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/about.html" beforeDir="false" afterPath="$PROJECT_DIR$/about.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/blog-single-post.html" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/contact.html" beforeDir="false" afterPath="$PROJECT_DIR$/contact.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gallery-single-post.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gallery.html" beforeDir="false" afterPath="$PROJECT_DIR$/gallery.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/logo.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/images/logo.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/the-beacon.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/images/the-beacon.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mustacheenthusiast.psd" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/scheduler.html" beforeDir="false" afterPath="$PROJECT_DIR$/scheduler.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -34,6 +44,11 @@
     <property name="aspect.path.notification.shown" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
   </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+    </key>
+  </component>
   <component name="ServiceViewManager">
     <option name="viewStates">
       <list>
@@ -57,6 +72,8 @@
       <option name="presentableId" value="Default" />
       <updated>1581763826763</updated>
       <workItem from="1581763828546" duration="592000" />
+      <workItem from="1581799586273" duration="599000" />
+      <workItem from="1581839328190" duration="5160000" />
     </task>
     <task id="LOCAL-00001" summary="rename menu">
       <created>1581764176200</created>
@@ -91,6 +108,10 @@
     <option name="LAST_COMMIT_MESSAGE" value="schedule of lessin" />
   </component>
   <component name="WindowStateProjectService">
+    <state x="566" y="211" width="524" height="502" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1581866508713">
+      <screen x="67" y="27" width="1533" height="873" />
+    </state>
+    <state x="566" y="211" width="524" height="502" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/67.27.1533.873@67.27.1533.873" timestamp="1581866508713" />
     <state x="398" y="59" width="860" height="807" key="CommitChangelistDialog2" timestamp="1581766221178">
       <screen x="67" y="27" width="1533" height="873" />
     </state>
