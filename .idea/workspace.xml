@@ -3,12 +3,8 @@
   <component name="ChangeListManager">
     <list default="true" id="954b3b8a-6b0c-40be-8cd6-4a4a4dd7ff90" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/about.html" beforeDir="false" afterPath="$PROJECT_DIR$/about.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/contact.html" beforeDir="false" afterPath="$PROJECT_DIR$/contact.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/gallery.html" beforeDir="false" afterPath="$PROJECT_DIR$/gallery.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/scheduler.html" beforeDir="false" afterPath="$PROJECT_DIR$/scheduler.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/trainers.html" beforeDir="false" afterPath="$PROJECT_DIR$/trainers.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -68,6 +64,17 @@
       <workItem from="1581763828546" duration="592000" />
       <workItem from="1581799586273" duration="599000" />
       <workItem from="1581839328190" duration="10539000" />
+      <workItem from="1581959833804" duration="628000" />
+      <workItem from="1582044695035" duration="599000" />
+      <workItem from="1582051311525" duration="1004000" />
+      <workItem from="1582217095149" duration="599000" />
+      <workItem from="1582222799728" duration="598000" />
+      <workItem from="1582313711390" duration="598000" />
+      <workItem from="1582354550270" duration="1597000" />
+      <workItem from="1582453368266" duration="599000" />
+      <workItem from="1582535223147" duration="599000" />
+      <workItem from="1582550721668" duration="597000" />
+      <workItem from="1582562236699" duration="2000" />
     </task>
     <task id="LOCAL-00001" summary="rename menu">
       <created>1581764176200</created>
